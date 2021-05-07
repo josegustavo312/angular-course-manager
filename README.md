@@ -1,4 +1,4 @@
-## Introdução ao Angular 8
+## IntroduÃ§Ã£o ao Angular 8
 
 ###  :desktop_computer: Tela
 
@@ -8,7 +8,7 @@
 
 ----------
 
-### :link: Baixar as dependências
+### :link: Baixar as dependÃªncias
 
 npm install
 
@@ -16,14 +16,15 @@ npm install
 
 ### :computer: Servidor de desenvolvimento
 
-Execute ng serve para um servidor de desenvolvimento. Navegue para http://localhost:4200/. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+Execute ng serve para um servidor de desenvolvimento. Navegue para http://localhost:4200/. O aplicativo serÃ¡ recarregado automaticamente se vocÃª alterar qualquer um dos arquivos de origem.
 
 ----------
 
 ### :hammer_and_wrench: Ferramentas
-As seguintes tecnologias foram utilizadas na construção do projeto:
+As seguintes tecnologias foram utilizadas na construÃ§Ã£o do projeto:
 - Angular;
 - HTML;
+- Bootstrap;
 - CSS;
 - TypeScript;
 - Visual Studio Code.
@@ -35,18 +36,18 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 - Data Biding;
 - Datas com Pipes;
 - Rotas com Guards;
-- Requisições HTTP.
+- RequisiÃ§Ãµes HTTP.
 
 ----------
 
-###  :gear: Função
+###  :gear: FunÃ§Ã£o
 
 - [x] CRUD de Cursos;
 
 ----------
 
 ###  :eyeglasses: Autor
-José Gustavo da Silva.
+JosÃ© Gustavo da Silva.
 [
 **Linkedin**
 ](https://www.linkedin.com/in/jose-gustavo312/)
