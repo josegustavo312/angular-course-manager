@@ -16,7 +16,7 @@ npm install
 
 ### :computer: Servidor de desenvolvimento
 
-Execute ng serve para um servidor de desenvolvimento. Navegue para http://localhost:4200/. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+Execute ng serve para iniciar a aplicação na porta http://localhost:4200/.
 
 ----------
 
