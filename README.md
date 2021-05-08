@@ -8,13 +8,13 @@
 
 ----------
 
-### :link: Baixar as dependências
+### :link: Instalar Dependências
 
 npm install
 
 ----------
 
-### :computer: Servidor de desenvolvimento
+### :computer: Servidor de Desenvolvimento
 
 Execute ng serve para iniciar a aplicação na porta http://localhost:4200/.
 
